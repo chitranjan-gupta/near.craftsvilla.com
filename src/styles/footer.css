@@ -1,0 +1,9 @@
+.footer-view{
+    padding: 10px;
+}
+
+@media screen and (max-width: 600px){
+    .footer-view{
+        padding: 2px;
+    }
+}

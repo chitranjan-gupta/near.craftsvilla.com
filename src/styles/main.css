@@ -1,0 +1,9 @@
+.chat-view{
+    transform: translate(96vw, 40vh);
+}
+
+@media screen and (max-width: 600px){
+    .chat-view{
+        transform: translate(90vw, 40vh);
+    }   
+}
